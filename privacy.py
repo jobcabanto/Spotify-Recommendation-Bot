@@ -1,5 +1,4 @@
 import sqlite3
-
 conn = None
 
 class UserData(object):
