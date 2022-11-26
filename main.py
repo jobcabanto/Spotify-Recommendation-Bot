@@ -2,7 +2,7 @@
 
     Front end development -> javascript/flask/html/css???
     Normalize data points -> scale all metrics from 1-10
-    Elbow method -> -> determine optimal k value -> read documentation
+    Elbow method -> determine optimal k value -> read documentation
     Feature engineering -> add/subtract metrics
 
 """
