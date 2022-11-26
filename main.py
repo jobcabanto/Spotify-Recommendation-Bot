@@ -1,4 +1,4 @@
-""" Developer Notes
+""" Developer Notes/Improvements
 
     Front end development -> javascript/flask/html/css???
     Normalize data points -> scale all metrics from 1-10
