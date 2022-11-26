@@ -1,5 +1,5 @@
 # Spotify-Recommendation-Bot
 
-This was my first time pulling data from an API and applying a machine learning model on data.
+The goal of the project was to read into playlists with songs I've never heard of before and use machine learning to predict whether I'd enjoy a song or not.
 
-The project is complete however, I plan on making changes every now and then. 
+Used the Spotify API to pull my music, an SQL database to store music for easier access, and the scikit-learn library for machine learning.
