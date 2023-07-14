@@ -7,7 +7,7 @@ Tools/Technologies Used:
 - SQL (SQLite)
 - Spotify API
 
-Data Parameters:
+Project Parameters:
 - Comparisons are strictly made with the "Discover Weekly" playlist
 - "Discover Weekly" playlists can be compared with any playlist created by myself to help with genre consistency
 - K-Nearest Neighbours algorithm was applied to predict songs of liking and disliking
