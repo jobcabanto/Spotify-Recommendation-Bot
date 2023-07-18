@@ -12,4 +12,4 @@ Project Parameters:
 - "Discover Weekly" playlists can be compared with any playlist created by myself to help with genre consistency
 - K-Nearest Neighbours algorithm was applied to predict songs of liking and disliking
 
-![alt text](https://github.com/jobcabanto/Spotify-Recommendation-Bot/blob/main/Figure_1.png?raw=true)
+![alt text](https://github.com/jobcabanto/Spotify-Recommendation-Bot/blob/main/res/Figure_1.png)
