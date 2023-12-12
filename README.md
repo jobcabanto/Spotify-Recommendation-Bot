@@ -1,4 +1,4 @@
-# Spotify Recommendation Bot
+# Spotify Playlist Recommendation Bot
 
 The goal of the project was to quantify my music taste and understand my listening patterns from a numerical point of view. The playlist analyzing bot reads into playlists with songs I've never heard of before and uses machine learning to predict whether I'd like a song or not.
 
