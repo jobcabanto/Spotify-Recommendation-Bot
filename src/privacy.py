@@ -5,8 +5,8 @@ conn = None
 class UserData(object):
     
     def sendCredentials():
-        clientID = '97f5ca6b35344a5d9957a18daf098056'
-        clientSecret ='baf41743a50d4a81be9796efdfbb6158'    
+        clientID = ''
+        clientSecret =''    
         return [clientID, clientSecret]
 
     def connection():
