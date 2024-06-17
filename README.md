@@ -1,4 +1,4 @@
-# Spotify Song Recommendation Bot
+# Spotify Song Recommendation Model
 
 The goal of the project was to quantify my musical taste and understand my listening patterns from a numerical point of view. The recommendation model analyzes songs based on Spotify's "Danceability", "Energy", and "Acousticness" features.
 
