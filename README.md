@@ -10,7 +10,7 @@ Tools/Technologies Used:
 - Matplotlib
 
 Project Summary:
-- Dataset is comprised of 100 songs from my current music rotation (good_songs) and 100 songs I do not listen to daily (bad_songs)
+- The dataset was comprised of 100 songs from my current music rotation (good_songs) and 100 songs I do not listen to daily (bad_songs)
 - Model features were reduced from Spotify's 13 quantitative audio features to 3 (Danceability, Energy, and Acousticness) using dimensionality reduction techniques
 - The specific algorithm used for the project was the K-Nearest Neighbours algorithm with KD-trees
 - Using the cross-validation with the elbow method, 8 neighbours were the best-suited amount of neighbours for the model
