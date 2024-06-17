@@ -16,4 +16,5 @@ Project Summary:
 - Using the cross-validation with the elbow method, it was found that 8 neighbours was the best-suited amount of neighbours for the model
 - After applying the model to a test set, the model performed with 86% accuracy. 
 
-![alt text](https://github.com/jobcabanto/Spotify-Recommendation-Bot/blob/main/res/Figure_1.png)
+![alt text](https://github.com/jobcabanto/Spotify-Recommendation-Bot/blob/main/res/knn_diagram.png)
+![alt text](https://github.com/jobcabanto/Spotify-Recommendation-Bot/blob/main/res/elbow_method.png)
