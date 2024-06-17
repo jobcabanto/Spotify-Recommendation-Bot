@@ -14,7 +14,7 @@ Project Summary:
 - Model features were reduced from Spotify's 13 quantitative audio features to 3 (Danceability, Energy, and Acousticness) using dimensionality reduction techniques
 - The specific algorithm used for the project was the K-Nearest Neighbours algorithm with KD-trees
 - Using the cross-validation with the elbow method, it was found that 8 was the optimal k-neighbours for the model
-- After applying the model to a test set, the model performed with 86% accuracy
+- After applying the model to a test set, the model performed with 89% accuracy
 
 ![alt text](https://github.com/jobcabanto/Spotify-Recommendation-Bot/blob/main/res/knn_chart.png)
 ![alt text](https://github.com/jobcabanto/Spotify-Recommendation-Bot/blob/main/res/elbow_method.png)
