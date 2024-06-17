@@ -16,5 +16,7 @@ Project Summary:
 - Using the cross-validation with the elbow method, it was found that 8 was the optimal k-neighbours for the model
 - After applying the model to a test set, the model performed with 89% accuracy
 
+Spotify Profile: https://open.spotify.com/user/03oenn4r6hh05yesfms7sp2f2?si=201662862d36428c 
+
 ![alt text](https://github.com/jobcabanto/Spotify-Recommendation-Bot/blob/main/res/knn_chart.png)
 ![alt text](https://github.com/jobcabanto/Spotify-Recommendation-Bot/blob/main/res/elbow_method.png)
