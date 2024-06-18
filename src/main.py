@@ -87,7 +87,7 @@ class DataWorkings():
         plt.ylabel("Cross-Validated Error Rate")
         plt.show()
 
-        self.optimalNeighbours = 8 # Set optimalNeighbours based off Elbow Method Plot
+        self.optimalNeighbours = 9 # Set optimalNeighbours based off Elbow Method Plot
 
         print("\n")
         return self.optimalNeighbours
